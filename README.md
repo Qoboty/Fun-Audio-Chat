@@ -281,7 +281,7 @@ If you find this model useful, please cite our paper:
 ```bibtex
 @article{funaudiochat2025,
   title={Fun-Audio-Chat Technical Report},
-  author={Tongyi Fun Team},
+  author={Qian Chen and Luyao Cheng and Chong Deng and Xiangang Li and Jiaqing Liu and Chao-Hong Tan and Wen Wang and Junhao Xu and Jieping Ye and Qinglin Zhang and Qiquan Zhang and Jingren Zhou},
   year={2025},
   eprint={2512.20156},
   archivePrefix={arXiv},
